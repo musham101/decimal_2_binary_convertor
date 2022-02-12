@@ -1,10 +1,11 @@
-# flutter_application_1
+# decimal_2_binary_convertor
 
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+who to use a traditional class object inside a widget class.
 
 A few resources to get you started if this is your first Flutter project:
 
